@@ -36,7 +36,7 @@ function Footer() {
       </div>
       <div className="pt-10">
         <p className="text-center">
-          &copy; 2024 Company Name. All rights reserved.
+          &copy; 2024 Manish Inc. All rights reserved.
         </p>
       </div>
     </footer>
