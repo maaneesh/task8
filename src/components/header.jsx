@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <header class="navbar bg-cyan-700 shadow-lg p-4">
+    <header class="navbar bg-cyan-600 shadow-lg p-4">
       <div class="flex-1">
         <a href="#" class="btn btn-ghost normal-case text-xl">
           <img
@@ -13,7 +13,7 @@ function Header() {
         </a>
       </div>
       <div class="flex-none hidden lg:flex">
-        <nav class="menu menu-horizontal px-1">
+        <nav class="menu text-stone-50 menu-horizontal px-1">
           <a href="#home" class="btn btn-ghost">
             Home
           </a>
