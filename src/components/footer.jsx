@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer p-10 bg-base-200 text-base-content">
+    <footer className="footer p-10 bg-cyan-700 text-base-content">
       <div>
         <span className="footer-title">Contact</span>
         <p>Email: contact@company.com</p>
